@@ -1,0 +1,27 @@
+body {
+    font-family: '微软雅黑';
+    background-color: black
+}
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.tick text {
+    font-size: 12px;
+}
+
+.bar {
+    font-size: 14px;
+    fill: #C13E43;
+}
+.bar-text {
+    font-size: 14px;
+    /* fill: #376EA5; */
+}
+.bar-date {
+    font-size: 14px;
+    fill: #565654;
+}
